@@ -1,0 +1,34 @@
+body {
+	background-image: url("code.jpg");
+}
+header {
+	text-align: center;
+	font-size: 100px;
+	background-color: darkseagreen;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	width: 1000px;
+	margin: auto;
+}
+nav {
+	background-color: seagreen;
+	font-size: 30px;
+	text-align: center;
+	width: 1000px;
+	margin: auto;
+}
+p {
+	background-color: lightgreen;
+	width: 1000px;
+	margin: auto;
+	height: 500px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+a {
+	text-decoration: none;
+	color: black;
+	background-color: palegreen;
+	width: 50px;
+	border-radius: 10px;
+}
